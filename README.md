@@ -1,4 +1,16 @@
-![聪音大头照](./pic/聪音.png)   <!-- markdownlint-disable-line first-line-h1 -->
+<!-- markdownlint-disable-file MD041 -->
+
+<div align="center">
+
+<a href="https://store.steampowered.com/app/3548580/LoFi/">
+    <img src="./pic/logo.png" width="200"  alt="Chill With You Logo">
+</a>
+
+<p href="https://store.steampowered.com/app/3548580/LoFi/">
+    <img src="./pic/聪音.png" width="400"  alt="聪音大头照">
+</p>
+
+</div>
 
 # Chill With You 存档解析
 
