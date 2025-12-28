@@ -64,4 +64,4 @@ Steam商店链接：[Chill with You : Lo-Fi Story](https://store.steampowered.co
 
 详细见每篇文章
 
-- [窗外景色及环境声音数据](./-39941661.md)
+- [-39941661: 窗外景色及环境声音数据](./-39941661.md)
